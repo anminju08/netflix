@@ -1,14 +1,7 @@
 # Netflix Clone Project
+- Netflix 클론 프로젝트이다.
 
-This is a Netflix clone project built with modern web technologies.
 
-## Features
-- Responsive design
-- Modern UI/UX
-- Movie browsing and streaming interface
-
-## Tech Stack
+## Stack
 - Frontend: React.js
 - Styling: Tailwind CSS
-- State Management: Redux Toolkit
-- API Integration: TMDB API 
